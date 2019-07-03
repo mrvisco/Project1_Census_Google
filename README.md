@@ -17,7 +17,7 @@ Information contained in this Repository:
       d.  Essex County Census Table
       e.  Grpahs
   
-  2 - Power Poiont Presentation
+  2 - Power Point Presentation
   
   3 - Report
   
