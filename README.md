@@ -12,19 +12,15 @@ Information contained in this Repository:
   1- Jupyter Notebooks:
   
       a.  US Censues API
-      b.  Google Places API
-      c.  (RIICK'S JUPYTER NOTEBOOK HE IS WORKING ON GOES HERE)
+      b.  Google API
+      c.  Restaurant T Test
       d.  Essex County Census Table
-      e.  Grpahs
+      e.  Graphs
   
-  2 - Power Point Presentation
+  2 - Report and Power Point Presentation 
   
-  3 - Report
+  3 - Resources - All of the CSV files
   
-  4 - Resources
-  
-      a. Census Data csv
-      b. Google Places csv
-      C. Essex County csv
+      
       
      
