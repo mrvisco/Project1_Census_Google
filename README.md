@@ -21,6 +21,6 @@ Information contained in this Repository:
   
   3 - Resources - All of the CSV files
   
-      
+  4 - Images - Copies of the graphs contained in the report and presentation    
       
      
